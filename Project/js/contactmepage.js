@@ -22592,7 +22592,7 @@ function isNumeric(value) {
         }
   }
 
-  console.log("test the updates")
+  console.log("test the updates");
 
     $('img.lazyload, iframe.lazyload').unveil(500);
 
